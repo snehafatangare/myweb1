@@ -1,12 +1,12 @@
-# Dr. Yogesh Deshmukh's Portfolio Website
+# Miss Sneha Fatangare Portfolio Website
 
 ## Introduction
 
-Welcome to Dr. Yogesh Deshmukh's Portfolio Website! This website showcases the skills, projects, study material and experiences of Dr. Yogesh Deshmukh.
+Welcome to Miss sneha fatangare's Portfolio Website! This website showcases the skills, projects, study material and experiences of Sneha Fatangare's.
 
-## About Dr. Yogesh Deshmukh
+## About Sneha Fatangare 
 
-Dr. Yogesh Deshmukh is a passionate and dedicated Teacher. 
+Sneha Fatangare is a passionate and dedicated Teacher. 
 
 ## Technologies Used
 

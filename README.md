@@ -6,7 +6,7 @@ Welcome to Miss sneha fatangare's Portfolio Website! This website showcases the 
 
 ## About Sneha Fatangare 
 
-Sneha Fatangare is a passionate and dedicated Teacher. 
+Sneha Fatangare is a passionate and dedicated Student. 
 
 ## Technologies Used
 
